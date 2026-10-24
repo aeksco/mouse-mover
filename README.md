@@ -4,7 +4,7 @@
 
 # Mouse Mover
 
-**A USB-C mouse jiggler on a Seeed XIAO SAMD21, in a parametric 3D-printed case.**
+**A USB-C mouse jiggler on a Seeed XIAO in a 3D-printed case.**
 
 ![XIAO SAMD21](https://img.shields.io/badge/board-XIAO%20SAMD21-8CC63F)
 ![Arduino](https://img.shields.io/badge/firmware-Arduino-00979D?logo=arduino&logoColor=white)
